@@ -3,6 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-2.0-brightgreen)
+[![Download](https://img.shields.io/badge/Download-v2.0-blueviolet)](https://gettaxus.vercel.app/PythonObfuscator.html)
 
 **Taxus** is an advanced, multi-layered obfuscator for Python designed to transform your code into a protected, unreadable format. It provides military-grade protection for your intellectual property against reverse engineering, AI-based analysis, and unauthorized access.
 
@@ -46,8 +47,8 @@ Here’s a simple "before and after" to demonstrate the power of Taxus.
 <table>
 <thead>
   <tr>
-    <th>Original Code (your_script.py)</th>
-    <th>Obfuscated Code (your_script_protected.py)</th>
+    <th>Original Code</th>
+    <th>Obfuscated Code</th>
   </tr>
 </thead>
 <tbody>
