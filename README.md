@@ -58,25 +58,11 @@ def calculate_sum(a, b):
     result = a + b
     return result
 
-total = calculate_sum(10, 20)
-print(f"The sum is: {total}")
 </pre>
 </td>
 <td valign="top">
 <pre lang="python">
-taxus_item_609 = "TAXUS_..."
-d0yok9h1uui4 = lambda: ...
-try:
-    d0yok9h1uui4()
-except:
-    pass
-
-import base64, zlib, ...
-
-# ... hundreds of lines of 
-# obfuscated functions, 
-# integrity checks, and 
-# encrypted data segments.
+Check the website for obfuscated output example
 </pre>
 </td>
 </tr>
@@ -104,4 +90,4 @@ Have questions, suggestions, or need help? Join our official Discord server to c
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. (Im lying my ass off, please dont skid)
