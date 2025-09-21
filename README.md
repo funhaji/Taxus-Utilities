@@ -25,7 +25,7 @@ You can download the latest version of the Taxus Obfuscator directly from our we
 
 **[➡️ Download Taxus Obfuscator v2.0](https://gettaxus.vercel.app/PythonObfuscator.html)**
 
-The download is a `.zip` file containing the obfuscator script, an installation guide, and example files.
+The download is a `.zip` file containing the obfuscator only.
 
 1.  **Unzip the file**: Extract the contents of `obfuscator.zip`.
 2.  **Install dependencies**: Taxus requires a few packages to enable its full protection suite. They are automatically installed on your system, if failed: You can install them via pip:
