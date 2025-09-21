@@ -22,12 +22,12 @@
 
 You can download the latest version of the Taxus Obfuscator directly from our website.
 
-**[➡️ Download Taxus Obfuscator v2.0.1](https://gettaxus.vercel.app/PythonObfuscator.html)**
+**[➡️ Download Taxus Obfuscator v2.0](https://gettaxus.vercel.app/PythonObfuscator.html)**
 
 The download is a `.zip` file containing the obfuscator script, an installation guide, and example files.
 
 1.  **Unzip the file**: Extract the contents of `obfuscator.zip`.
-2.  **Install dependencies**: Taxus requires a few packages to enable its full protection suite. You can install them via pip:
+2.  **Install dependencies**: Taxus requires a few packages to enable its full protection suite. They are automatically installed on your system, if failed: You can install them via pip:
     ```bash
     pip install psutil astor pycryptodome
     ```
@@ -36,13 +36,8 @@ The download is a `.zip` file containing the obfuscator script, an installation 
 
 ## 💻 How to Use
 
-Using the obfuscator is straightforward. Simply run the main script from your terminal and provide the path to the Python file you want to protect.
+Using the obfuscator is straightforward. Simply run the obfuscator, select your file and wait, the protected file is named `FileName_taxus_protected.py`.
 
-1.  **Run the Obfuscator**:
-    ```bash
-    python TaxusObfuscator.py your_script.py
-    ```
-2.  **Get the Protected File**: The tool will process your code and generate a new file, typically named `your_script_protected.py`, in the same directory. This new file is fully protected and ready for distribution.
 
 ### Example Transformation
 
