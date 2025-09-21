@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-2.0.1-brightgreen)
+![Version](https://img.shields.io/badge/version-2.0-brightgreen)
 
 **Taxus** is an advanced, multi-layered obfuscator for Python designed to transform your code into a protected, unreadable format. It provides military-grade protection for your intellectual property against reverse engineering, AI-based analysis, and unauthorized access.
 
